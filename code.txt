@@ -1,2 +1,4 @@
+USE TestDB
 SELECT * FROM [User] WHERE Gender = 0
 GO
+-- comment
