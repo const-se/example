@@ -1,1 +1,2 @@
-SELECT * FROM [User] WHERE Gender = 0;
+SELECT * FROM [User] WHERE Gender = 0
+GO
